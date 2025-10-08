@@ -1,0 +1,645 @@
+Apples
+Avocado
+Bacon
+Bananas
+Basil
+Beef
+Bell Peppers
+Broccoli
+Butter
+Carrots
+Cheese
+Chicken
+Cilantro
+Coconut
+Corn
+Cucumber
+Eggs
+Garlic
+Ginger
+Lemons
+Lettuce
+Mushrooms
+Onions
+Oranges
+Pasta
+Potatoes
+Rice
+Salmon
+Spinach
+Tomatoes
+Zucchini
+Almonds
+Asparagus
+Beans
+Bread
+Celery
+Chili Peppers
+Chocolate
+Cinnamon
+Coconut Oil
+Cranberries
+Cream
+Dill
+Eggplant
+Flour
+Honey
+Kale
+Lime
+Milk
+Nuts
+Oats
+Olive Oil
+Paprika
+Parsley
+Peas
+Pineapple
+Quinoa
+Rosemary
+Salt
+Shrimp
+Strawberries
+Sweet Potatoes
+Thyme
+Tuna
+Vanilla
+Walnuts
+Yogurt
+
+# Spices & Seasonings
+Black Pepper
+White Pepper
+Cumin
+Coriander
+Turmeric
+Cardamom
+Cloves
+Nutmeg
+Allspice
+Bay Leaves
+Oregano
+Sage
+Tarragon
+Marjoram
+Fennel Seeds
+Caraway Seeds
+Mustard Seeds
+Sesame Seeds
+Poppy Seeds
+Anise
+Star Anise
+Saffron
+Smoked Paprika
+Cayenne Pepper
+Chili Powder
+Curry Powder
+Garam Masala
+Chinese Five Spice
+Sumac
+Za'atar
+
+# Beef Cuts
+Ribeye Steak
+Filet Mignon
+New York Strip
+T-Bone Steak
+Porterhouse Steak
+Sirloin Steak
+Flank Steak
+Skirt Steak
+Hanger Steak
+Flat Iron Steak
+Chuck Roast
+Brisket
+Short Ribs
+Ground Beef
+Beef Tenderloin
+Top Round
+Bottom Round
+Eye of Round
+Tri-Tip
+Denver Steak
+
+# Pork Cuts
+Pork Chops
+Pork Tenderloin
+Pork Shoulder
+Pork Belly
+Ham
+Prosciutto
+Pancetta
+Chorizo
+Italian Sausage
+Bratwurst
+Andouille Sausage
+Ground Pork
+Pork Ribs
+Baby Back Ribs
+
+# Poultry
+Chicken Breast
+Chicken Thighs
+Chicken Wings
+Chicken Drumsticks
+Whole Chicken
+Ground Chicken
+Turkey Breast
+Ground Turkey
+Duck
+Quail
+
+# Seafood
+Cod
+Halibut
+Mahi Mahi
+Sea Bass
+Snapper
+Flounder
+Sole
+Mackerel
+Sardines
+Anchovies
+Scallops
+Mussels
+Clams
+Oysters
+Crab
+Lobster
+Calamari
+Octopus
+
+# Vegetables
+Artichokes
+Arugula
+Bok Choy
+Brussels Sprouts
+Cabbage
+Cauliflower
+Chard
+Collard Greens
+Endive
+Fennel
+Leeks
+Parsnips
+Radishes
+Rutabaga
+Turnips
+Watercress
+Beets
+Butternut Squash
+Acorn Squash
+Delicata Squash
+Kabocha Squash
+Spaghetti Squash
+Yellow Squash
+Okra
+Kohlrabi
+
+# Fruits
+Apricots
+Blackberries
+Blueberries
+Cherries
+Dates
+Figs
+Grapes
+Kiwi
+Mango
+Papaya
+Passion Fruit
+Peaches
+Pears
+Persimmons
+Plums
+Pomegranate
+Raspberries
+Rhubarb
+Cantaloupe
+Honeydew
+Watermelon
+
+# Grains & Legumes
+Barley
+Bulgur
+Farro
+Freekeh
+Millet
+Amaranth
+Buckwheat
+Wild Rice
+Brown Rice
+Jasmine Rice
+Basmati Rice
+Arborio Rice
+Black Beans
+Kidney Beans
+Navy Beans
+Pinto Beans
+Chickpeas
+Lentils
+Split Peas
+Black-Eyed Peas
+
+# Dairy & Eggs
+Heavy Cream
+Half and Half
+Sour Cream
+Cream Cheese
+Ricotta
+Mozzarella
+Parmesan
+Cheddar
+Goat Cheese
+Feta
+Blue Cheese
+Brie
+Camembert
+Gruyere
+Swiss Cheese
+Provolone
+Duck Eggs
+Quail Eggs
+
+# Oils & Vinegars
+Avocado Oil
+Sesame Oil
+Walnut Oil
+Grapeseed Oil
+Sunflower Oil
+Canola Oil
+Vegetable Oil
+Balsamic Vinegar
+Red Wine Vinegar
+White Wine Vinegar
+Apple Cider Vinegar
+Rice Vinegar
+Sherry Vinegar
+
+# Pantry Staples
+Baking Powder
+Baking Soda
+Cornstarch
+Arrowroot Powder
+Tapioca Starch
+Coconut Flour
+Almond Flour
+Breadcrumbs
+Panko
+Tomato Paste
+Tomato Sauce
+Coconut Milk
+Almond Milk
+Soy Sauce
+Fish Sauce
+Worcestershire Sauce
+Hot Sauce
+Sriracha
+Tahini
+Peanut Butter
+Almond Butter
+Maple Syrup
+Agave Nectar
+Brown Sugar
+Powdered Sugar
+Molasses
+
+# Fresh Herbs
+Mint
+Chives
+Lemongrass
+Thai Basil
+Chervil
+Lovage
+Sorrel
+Shiso
+Epazote
+
+# Mushrooms
+Shiitake
+Portobello
+Cremini
+Oyster Mushrooms
+Enoki
+Chanterelles
+Morel
+Porcini
+
+# Specialty Items
+Capers
+Olives
+Sun-Dried Tomatoes
+Roasted Red Peppers
+Pickles
+Kimchi
+Sauerkraut
+Miso Paste
+Harissa
+Chipotle Peppers
+Adobo Sauce
+Vanilla Extract
+Almond Extract
+Rose Water
+Orange Blossom Water
+
+# Indian Cuisine
+Ghee
+Paneer
+Yogurt (Dahi)
+Basmati Rice
+Chapati Flour
+Besan (Chickpea Flour)
+Tamarind Paste
+Jaggery
+Asafoetida (Hing)
+Fenugreek Seeds
+Mustard Oil
+Curry Leaves
+Cilantro (Dhania)
+Mint (Pudina)
+Green Chilies
+Red Chilies
+Kashmiri Red Chili Powder
+Tandoori Masala
+Biryani Masala
+Chaat Masala
+Amchur (Dried Mango Powder)
+Kala Namak (Black Salt)
+Methi (Fenugreek Leaves)
+Kokum
+Drumsticks (Moringa)
+Bitter Gourd (Karela)
+Bottle Gourd (Lauki)
+Ridge Gourd (Turai)
+Okra (Bhindi)
+Toor Dal
+Moong Dal
+Chana Dal
+Urad Dal
+Masoor Dal
+
+# Chinese Cuisine
+Soy Sauce (Light & Dark)
+Oyster Sauce
+Hoisin Sauce
+Black Bean Sauce
+Fermented Black Beans
+Shaoxing Wine
+Rice Wine Vinegar
+Chinkiang Vinegar
+Sesame Oil
+Chili Oil
+Sichuan Peppercorns
+White Pepper
+Star Anise
+Dried Shiitake Mushrooms
+Wood Ear Mushrooms
+Bamboo Shoots
+Water Chestnuts
+Baby Corn
+Bok Choy
+Chinese Broccoli (Gai Lan)
+Napa Cabbage
+Snow Peas
+Sugar Snap Peas
+Chinese Eggplant
+Daikon Radish
+Scallions
+Ginger
+Garlic
+Fermented Bean Paste
+Doubanjiang
+XO Sauce
+Lap Cheong (Chinese Sausage)
+Char Siu
+Duck
+Chinese Five Spice
+Cornstarch
+Potato Starch
+Rice Noodles
+Egg Noodles
+Wonton Wrappers
+Dumpling Wrappers
+
+# Japanese Cuisine
+Soy Sauce (Shoyu)
+Miso Paste (White, Red, Mixed)
+Mirin
+Sake
+Rice Vinegar
+Dashi Stock
+Kombu (Kelp)
+Bonito Flakes (Katsuobushi)
+Nori (Seaweed)
+Wakame
+Wasabi
+Pickled Ginger (Gari)
+Panko Breadcrumbs
+Tempura Flour
+Soba Noodles
+Udon Noodles
+Ramen Noodles
+Shirataki Noodles
+Short Grain Rice
+Sushi Rice
+Edamame
+Tofu
+Silken Tofu
+Abura-age (Fried Tofu)
+Shiso Leaves
+Daikon Radish
+Japanese Cucumber
+Kabocha Squash
+Enoki Mushrooms
+Shimeji Mushrooms
+Maitake Mushrooms
+Japanese Eggplant
+Yuzu
+Ponzu Sauce
+Teriyaki Sauce
+Tonkatsu Sauce
+Japanese Mayonnaise
+Sesame Seeds (Black & White)
+Furikake
+Matcha Powder
+
+# Lebanese/Middle Eastern Cuisine
+Tahini
+Pomegranate Molasses
+Sumac
+Za'atar
+Baharat
+Allspice
+Rose Water
+Orange Blossom Water
+Bulgur Wheat
+Freekeh
+Pita Bread
+Lavash
+Phyllo Dough
+Halloumi Cheese
+Labneh
+Feta Cheese
+Pine Nuts
+Pistachios
+Dates
+Dried Apricots
+Pomegranate Seeds
+Preserved Lemons
+Olives (Kalamata, Green)
+Grape Leaves
+Chickpeas
+Fava Beans
+Lentils
+Parsley (Flat-leaf)
+Mint
+Dill
+Cilantro
+Scallions
+Cucumber
+Tomatoes
+Eggplant
+Zucchini
+Okra
+Artichokes
+Lamb
+Ground Lamb
+Merguez Sausage
+Arak
+Rosewater
+Mahlab
+Mastic
+
+# Thai Cuisine
+Fish Sauce
+Thai Basil
+Holy Basil
+Lemongrass
+Galangal
+Kaffir Lime Leaves
+Thai Chilies
+Bird's Eye Chilies
+Coconut Milk
+Coconut Cream
+Palm Sugar
+Tamarind Paste
+Shrimp Paste
+Thai Curry Paste (Red, Green, Yellow)
+Jasmine Rice
+Sticky Rice
+Rice Noodles
+Glass Noodles
+Thai Eggplant
+Long Beans
+Morning Glory
+Thai Shallots
+Cilantro Root
+
+# Mexican Cuisine
+Masa Harina
+Corn Tortillas
+Flour Tortillas
+Chipotle Peppers in Adobo
+Poblano Peppers
+Jalapeño Peppers
+Serrano Peppers
+Habanero Peppers
+Dried Chilies (Ancho, Guajillo, Pasilla)
+Mexican Oregano
+Epazote
+Mexican Crema
+Queso Fresco
+Queso Oaxaca
+Cotija Cheese
+Tomatillos
+Mexican Chocolate
+Piloncillo
+Achiote Paste
+Hominy
+Black Beans
+Pinto Beans
+Avocado Leaves
+Plantains
+
+# Korean Cuisine
+Gochujang
+Gochugaru (Korean Chili Flakes)
+Kimchi
+Korean Soy Sauce
+Sesame Oil
+Perilla Oil
+Doenjang (Soybean Paste)
+Korean Rice Cakes
+Sweet Potato Starch Noodles
+Napa Cabbage
+Korean Radish
+Perilla Leaves
+Korean Pear
+Bulgogi Marinade
+
+# Italian Specialties
+San Marzano Tomatoes
+Parmigiano-Reggiano
+Pecorino Romano
+Prosciutto di Parma
+Pancetta
+Guanciale
+Mortadella
+Burrata
+Mascarpone
+Arborio Rice
+Carnaroli Rice
+Polenta
+00 Flour
+Semolina Flour
+Balsamic Vinegar (Aged)
+Extra Virgin Olive Oil
+Capers
+Anchovies
+Pine Nuts
+Porcini Mushrooms
+Truffle Oil
+Amaretto
+Marsala Wine
+
+# French Specialties
+Crème Fraîche
+Fromage Blanc
+Roquefort
+Camembert
+Brie
+Cognac
+Calvados
+Herbes de Provence
+Tarragon
+Chervil
+Shallots
+Leeks
+French Butter
+Duck Fat
+Foie Gras
+Confit
+Dijon Mustard
+Whole Grain Mustard
+Cornichons
+Fleur de Sel
+
+# German/Eastern European
+Sauerkraut
+Caraway Seeds
+Juniper Berries
+Rye Flour
+Pumpernickel
+Spätzle
+Kielbasa
+Bratwurst
+Weisswurst
+Sour Cream
+Quark
+Paprika (Sweet & Hot)
+Marjoram
+Dill
+Horseradish
+Beets
+Cabbage
+Potatoes
+Dark Rye Bread

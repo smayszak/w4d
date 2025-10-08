@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>W4D - What's for Dinner?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍲 What's for Dinner? 🍳</h1>
+            <p>Add ingredients you have available and let's create something delicious!</p>
+        </header>
+
+        <div class="ingredient-selector">
+            <input type="text" id="ingredientInput" placeholder="Type to search ingredients..." autocomplete="off">
+            <div id="dropdown" class="dropdown"></div>
+        </div>
+
+        <div id="selectedIngredients" class="selected-ingredients"></div>
+
+        <div class="buttons">
+            <button id="createBtn" onclick="createRecipe()">Invent my dinner!</button>
+            <button id="clearBtn" onclick="clearAll()">Clear</button>
+        </div>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
