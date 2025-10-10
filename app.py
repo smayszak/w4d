@@ -29,7 +29,9 @@ def create_recipe():
     data = request.get_json()
     ingredients = data.get('ingredients', [])
     sorted_ingredients = ' '.join(sorted(ingredients))
-    return jsonify({'result': sorted_ingredients})
+    from chefagent import run_agent
+    agent_response = run_agent(sorted_ingredients)
+    return jsonify({'result': agent_response})
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=3000, debug=True)
