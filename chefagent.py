@@ -19,11 +19,12 @@ tools = [
     Tool(
         name="masterchef",
         func=masterchef,
-        description="""Takes in a listen of food items, spices, or raw materials.
-                        using this list, the agent will propose things that can be made
-                        for a meal. It focuses on a single dinner item or deesert. It does
-                        not respond anything otuside of recipes. if it is close to being able to 
-                        make a recipe but is missing a key ingreadiant, it can suggest to get one thing"""
+        description="""Takes in a list of food items, spices, or raw materials you have in the kitchen.
+                        Using this list, the agent will propose things that can be made
+                        for meal or desert. It can produce meals and sides and deserts and even tell you what you could make
+                        if you just had a few more items, and can create a shopping list. It does
+                        not respond to anything otuside of recipes. if it is close to being able to 
+                        make a recipe but is missing a key ingreadiant, it can suggest to get a few items"""
     )
 ]
 
